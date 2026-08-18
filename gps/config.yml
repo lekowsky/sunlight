@@ -1,0 +1,90 @@
+menu:
+  title: "<dark_gray>GPS <gray>• <white>strona {page}/{pages}"
+  rows: 3
+  items-per-page: 18
+  filler:
+    material: GRAY_STAINED_GLASS_PANE
+    name: "<gray>"
+  previous:
+    material: ARROW
+    name: "<yellow>Poprzednia strona"
+    lore:
+      - "<gray>Kliknij, aby cofnąć."
+  next:
+    material: ARROW
+    name: "<yellow>Następna strona"
+    lore:
+      - "<gray>Kliknij, aby przejść dalej."
+  close:
+    material: BARRIER
+    name: "<red>Zamknij"
+  stop:
+    material: REDSTONE
+    name: "<red>Zatrzymaj nawigację"
+    lore:
+      - "<gray>Aktualny cel: <white>{target}"
+  empty:
+    material: MAP
+    name: "<yellow>Brak punktów GPS"
+
+default-icon:
+  material: COMPASS
+  name: "<gold><bold>{name}</bold>"
+  lore:
+    - "<gray>Odległość: <yellow>{distance} bloków"
+    - ""
+    - "<green>Kliknij, aby rozpocząć nawigację."
+  item-model: ""
+  custom-model-data: -1
+  glow: false
+
+navigation:
+  update-interval-ticks: 4
+  arrival-distance: 2.5
+
+  particle:
+    count: 100
+    start-distance: 1.2
+    spacing: 0.7
+    size: 1.0
+    color:
+      red: 255
+      green: 190
+      blue: 45
+
+  beep:
+    sound: "minecraft:block.note_block.hat"
+    volume: 0.65
+    near-pitch: 1.8
+    far-pitch: 0.8
+    min-interval-ticks: 4
+    max-interval-ticks: 40
+    scaling-distance: 200.0
+
+  start-sound: "minecraft:block.note_block.pling"
+  arrival-sound: "minecraft:entity.player.levelup"
+  actionbar: "<gold>GPS: <yellow>{name} <dark_gray>• <white>{distance} m"
+
+messages:
+  prefix: "<dark_gray>[<gold>GPS</gold>]</dark_gray> "
+  no-permission: "<red>Nie masz uprawnień."
+  only-player: "<red>Tej komendy może użyć tylko gracz."
+  usage-start: "<yellow>Użycie: <white>/gps start <gracz> <nazwa/id>"
+  player-not-found: "<red>Nie znaleziono gracza online: <white>{player}</white>."
+  navigation-started-for: "<green>Uruchomiono nawigację graczowi <white>{player}</white> do celu <yellow>{name}</yellow>."
+  usage-set: "<yellow>Użycie: <white>/ustawgps <nazwa>"
+  usage-delete: "<yellow>Użycie: <white>/usungps <id lub nazwa>"
+  point-created: "<green>Dodano punkt <white>{name}</white> o ID <yellow>{id}</yellow>."
+  point-exists: "<red>Punkt o takim ID już istnieje: <white>{id}</white>."
+  point-deleted: "<green>Usunięto punkt <white>{name}</white>."
+  point-not-found: "<red>Nie znaleziono punktu <white>{name}</white>."
+  no-points: "<yellow>Nie ma jeszcze żadnych punktów GPS."
+  navigation-started: "<green>Rozpoczęto nawigację do <white>{name}</white>."
+  navigation-changed: "<yellow>Cel zmieniony, prowadzenie do nowego celu.</yellow>"
+  navigation-cancelled: "<red>Anulowano prowadzenie do celu.</red>"
+  navigation-stopped: "<yellow>Nawigacja została zatrzymana."
+  navigation-not-running: "<gray>Nie masz aktywnej nawigacji."
+  different-world: "<red>Cel znajduje się w innym świecie."
+  world-missing: "<red>Ten punkt GPS nie jest aktualnie dostępny."
+  arrived: "<green>Dotarłeś do celu: <white>{name}</white>!"
+  reloaded: "<green>Konfiguracja i punkty GPS zostały przeładowane."

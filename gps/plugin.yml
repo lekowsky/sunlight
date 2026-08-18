@@ -1,0 +1,29 @@
+name: GPS
+version: '1.5'
+main: pejterek.GPS
+api-version: '1.21.10'
+author: Pejterek
+description: Nawigacja
+
+commands:
+  gps:
+    usage: /gps [stop | start <gracz> <nazwa/id>]
+    permission: gps.use
+  ustawgps:
+    usage: /ustawgps <nazwa>
+    permission: gps.admin
+  usungps:
+    usage: /usungps <id lub nazwa>
+    permission: gps.admin
+  gpsreload:
+    usage: /gpsreload
+    permission: gps.admin
+
+permissions:
+  gps.use:
+    default: true
+
+  gps.admin:
+    default: op
+    children:
+      gps.use: true
