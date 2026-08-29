@@ -1,0 +1,2044 @@
+voertuigen:
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: false
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1009
+    name: Oxboard White
+    price: 1000.0
+    uuid: C4UQZJ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1029
+    name: Oxboard Gold
+    price: 1000.0
+    uuid: HUYM42
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1030
+    name: Oxboard Orange
+    price: 1000.0
+    uuid: XE9C3P
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1031
+    name: Oxboard Green
+    price: 1000.0
+    uuid: YF4P36
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1032
+    name: Oxboard Blue
+    price: 1000.0
+    uuid: 2BSTZM
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1033
+    name: Oxboard Red
+    price: 1000.0
+    uuid: JE4M2R
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1034
+    name: Oxboard Yellow
+    price: 1000.0
+    uuid: 5V2PDY
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1035
+    name: Oxboard Purple
+    price: 1000.0
+    uuid: P4FWRX
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1152
+    name: Oxboard Babyblue
+    price: 1000.0
+    uuid: LQ53PX
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1153
+    name: Oxboard Goldenglass
+    price: 1000.0
+    uuid: CPK3SS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1154
+    name: Oxboard Champagne
+    price: 1000.0
+    uuid: B259DS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1155
+    name: Oxboard Desert
+    price: 1000.0
+    uuid: VFVX2H
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1156
+    name: Oxboard Ender
+    price: 1000.0
+    uuid: KC4RHD
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1157
+    name: Oxboard Lemonyellow
+    price: 1000.0
+    uuid: SWT2JB
+  hornEnabled: false
+  itemDamage: 1009
+  kofferbakEnabled: false
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: Oxboard
+  rotateSpeed: 8
+  seats:
+  - x: -0.2
+    y: -1.7
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.006
+  aftrekkenSpeed: 0.005
+  benzineEnabled: false
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1008
+    name: Fiets Man Gray
+    price: 1500.0
+    uuid: YFDZ5K
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1043
+    name: Fiets Man Green
+    price: 1500.0
+    uuid: DSF2HK
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1044
+    name: Fiets Man Brown
+    price: 1500.0
+    uuid: MLD9NX
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1045
+    name: Fiets Man Blueblack
+    price: 1500.0
+    uuid: SJY2FV
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1143
+    name: Fiets Man Bluediamond
+    price: 1500.0
+    uuid: GD9WEU
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1144
+    name: Fiets Man Gold
+    price: 1500.0
+    uuid: 2EY6DP
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1145
+    name: Fiets Man Pink
+    price: 1500.0
+    uuid: NMLV7G
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1146
+    name: Fiets Man Red
+    price: 1500.0
+    uuid: 2A85ZB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1200
+    name: Fiets Man Koningsdag
+    price: 1500.0
+    uuid: WAB77V
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1225
+    name: Fiets Man Babyboy
+    price: 1500.0
+    uuid: 5QCTUR
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1046
+    name: Fiets Vrouw Gray
+    price: 1500.0
+    uuid: A7V4BN
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1047
+    name: Fiets Vrouw Green
+    price: 1500.0
+    uuid: WV96BY
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1048
+    name: Fiets Vrouw Brown
+    price: 1500.0
+    uuid: 3YUK29
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1049
+    name: Fiets Vrouw Blueblack
+    price: 1500.0
+    uuid: E8K5VC
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1147
+    name: Fiets Vrouw Bluediamond
+    price: 1500.0
+    uuid: Q54TDU
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1148
+    name: Fiets Vrouw Gold
+    price: 1500.0
+    uuid: 2AYF36
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1149
+    name: Fiets Vrouw Pink
+    price: 1500.0
+    uuid: T6Y89D
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1150
+    name: Fiets Vrouw Red
+    price: 1500.0
+    uuid: XN9MKB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1187
+    name: Fiets Vrouw Rainbow
+    price: 1500.0
+    uuid: VM8MKX
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1199
+    name: Fiets Vrouw Koningsdag
+    price: 1500.0
+    uuid: 3TB9UE
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1226
+    name: Fiets Vrouw Babygirl
+    price: 1500.0
+    uuid: 83QL5C
+  hornEnabled: false
+  itemDamage: 1008
+  kofferbakEnabled: false
+  maxHealth: 150.0
+  maxSpeed: 0.45
+  maxSpeedBackwards: 0.0
+  name: Fiets
+  rotateSpeed: 8
+  seats:
+  - x: -0.5
+    y: -0.85
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.015
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1036
+    name: Motor Orange
+    price: 3000.0
+    uuid: FV5PZP
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1037
+    name: Motor Green
+    price: 3000.0
+    uuid: 4HY4A5
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1038
+    name: Motor Blue
+    price: 3000.0
+    uuid: K6TBK9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1039
+    name: Motor Gold
+    price: 3000.0
+    uuid: 7WTA39
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1040
+    name: Motor Police
+    price: 3000.0
+    uuid: 384A4N
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1041
+    name: Motor Red
+    price: 3000.0
+    uuid: JDC78X
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1042
+    name: Motor Pink
+    price: 3000.0
+    uuid: XTKK54
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1194
+    name: Motor Vierjaar
+    price: 3000.0
+    uuid: 7H3U63
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1195
+    name: Motor Easter
+    price: 3000.0
+    uuid: RBSX6N
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1197
+    name: Motor Koningsdag
+    price: 3000.0
+    uuid: A5K4NY
+  hornEnabled: true
+  itemDamage: 1036
+  kofferbakEnabled: true
+  maxHealth: 200.0
+  maxSpeed: 0.7
+  maxSpeedBackwards: 0.35
+  name: Motor
+  rotateSpeed: 8
+  seats:
+  - x: -0.2
+    y: -1.0
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.012
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1002
+    name: Sportief Navyblue
+    price: 5000.0
+    uuid: SMV4M6
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1060
+    name: Sportief White
+    price: 5000.0
+    uuid: 5CD8N4
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1061
+    name: Sportief Pink
+    price: 5000.0
+    uuid: MW65MB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1062
+    name: Sportief Blackyellow
+    price: 5000.0
+    uuid: NJWR35
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1063
+    name: Sportief Flamered
+    price: 5000.0
+    uuid: LHBM2X
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1064
+    name: Sportief Flameblue
+    price: 5000.0
+    uuid: 2HSGS9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1065
+    name: Sportief Flamewhite
+    price: 5000.0
+    uuid: W3WRM9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1066
+    name: Sportief Gold
+    price: 5000.0
+    uuid: 3FPCB2
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1067
+    name: Sportief Emerald
+    price: 5000.0
+    uuid: R2VWQA
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1068
+    name: Sportief Orange
+    price: 5000.0
+    uuid: 8CUSCG
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1069
+    name: Sportief Diamond
+    price: 5000.0
+    uuid: 6FHXGA
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1070
+    name: Sportief Black
+    price: 5000.0
+    uuid: W32FND
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1196
+    name: Sportief Koningsclean
+    price: 5000.0
+    uuid: 54L2U8
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1216
+    name: Sportief Bordeauxclean
+    price: 5000.0
+    uuid: D2VPX5
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1223
+    name: Sportief Flamegreen
+    price: 5000.0
+    uuid: AULZ53
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1224
+    name: Sportief Flamepink
+    price: 5000.0
+    uuid: VC255H
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1240
+    name: Sportief Forest
+    price: 5000.0
+    uuid: 5KH7QB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1241
+    name: Sportief Forestclean
+    price: 5000.0
+    uuid: Y4ARH2
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1242
+    name: Sportief Puppel
+    price: 5000.0
+    uuid: WCL6KH
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1243
+    name: Sportief Puppelclean
+    price: 5000.0
+    uuid: GH3LXS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1244
+    name: Sportief Nietrood
+    price: 5000.0
+    uuid: U7PJ85
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1245
+    name: Sportief Nietroodclean
+    price: 5000.0
+    uuid: X2L44E
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1246
+    name: Sportief Fakegold
+    price: 5000.0
+    uuid: 6YSL3P
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1247
+    name: Sportief Fakegoldclean
+    price: 5000.0
+    uuid: 6Y4XE9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1248
+    name: Sportief Peppa
+    price: 5000.0
+    uuid: RXR5MV
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1249
+    name: Sportief Peppaclean
+    price: 5000.0
+    uuid: 4HU8G2
+  hornEnabled: true
+  itemDamage: 1002
+  kofferbakEnabled: true
+  maxHealth: 250.0
+  maxSpeed: 0.67
+  maxSpeedBackwards: 0.35
+  name: Sportief
+  rotateSpeed: 8
+  seats:
+  - x: -0.2
+    y: -1.45
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.009
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1003
+    name: Sedan Navyblauw
+    price: 5500.0
+    uuid: 7JWQYB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1015
+    name: Sedan Politie
+    price: 5500.0
+    uuid: JSJ4ST
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1017
+    name: Sedan Red
+    price: 5500.0
+    uuid: GKAH5U
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1018
+    name: Sedan Green
+    price: 5500.0
+    uuid: CT3EGF
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1019
+    name: Sedan Gray
+    price: 5500.0
+    uuid: BV3W2A
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1020
+    name: Sedan Pink
+    price: 5500.0
+    uuid: S5NU5C
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1021
+    name: Sedan Yellow
+    price: 5500.0
+    uuid: YLSS3P
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1022
+    name: Sedan Brown
+    price: 5500.0
+    uuid: 4LDQAQ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1023
+    name: Sedan Sportief Quartz
+    price: 5500.0
+    uuid: 7BEQ5K
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1024
+    name: Sedan Purple
+    price: 5500.0
+    uuid: TTD9ZR
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1025
+    name: Sedan Sportief Diamond
+    price: 5500.0
+    uuid: H4K4ZV
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1026
+    name: Sedan Koningsdag
+    price: 5500.0
+    uuid: TX9HKQ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1027
+    name: Sedan Sportief Rainbow
+    price: 5500.0
+    uuid: XJ4Q29
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1028
+    name: Sedan Lesauto
+    price: 5500.0
+    uuid: M9LDAV
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1071
+    name: Sedan Sportief Gold v2
+    price: 5500.0
+    uuid: QXN6XS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1099
+    name: Sedan Cars
+    price: 5500.0
+    uuid: TG73T8
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1100
+    name: Sedan Thunder
+    price: 5500.0
+    uuid: 7VW8AS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1101
+    name: Sedan Monster
+    price: 5500.0
+    uuid: 6U9P2A
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1109
+    name: Sedan Babyblauw
+    price: 5500.0
+    uuid: 655LX3
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1110
+    name: Sedan Beige
+    price: 5500.0
+    uuid: 58UUXF
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1111
+    name: Sedan Black
+    price: 5500.0
+    uuid: FFW36Q
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1113
+    name: Sedan Lemonyellow
+    price: 5500.0
+    uuid: A6TLAE
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1114
+    name: Sedan Lily
+    price: 5500.0
+    uuid: YR526Z
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1115
+    name: Sedan Sportief Emerald
+    price: 5500.0
+    uuid: RBG6HW
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1116
+    name: Sedan Sportief Obsidian
+    price: 5500.0
+    uuid: KG59SJ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1117
+    name: Sedan Zalm
+    price: 5500.0
+    uuid: DD4KEN
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1173
+    name: Sedan Sportief President
+    price: 5500.0
+    uuid: 4A56NC
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1176
+    name: Sedan OranjeZwart
+    price: 5500.0
+    uuid: 2RD98Z
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1177
+    name: Sedan PaarsWit
+    price: 5500.0
+    uuid: VL7YRF
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1178
+    name: Sedan GeelZwart
+    price: 5500.0
+    uuid: 743YWW
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1179
+    name: Sedan BlauwZwart
+    price: 5500.0
+    uuid: KV6RY9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1189
+    name: Sedan Kerst
+    price: 5500.0
+    uuid: U8DQDW
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1190
+    name: Sedan RoodWit
+    price: 5500.0
+    uuid: J9WR25
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1191
+    name: Sedan Sportief Lego
+    price: 5500.0
+    uuid: MQ694J
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1217
+    name: Sedan Babygirl
+    price: 5500.0
+    uuid: ZJD7VR
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1218
+    name: Sedan Babyboy
+    price: 5500.0
+    uuid: 43Z6B7
+  hornEnabled: true
+  itemDamage: 1003
+  kofferbakEnabled: true
+  maxHealth: 300.0
+  maxSpeed: 0.65
+  maxSpeedBackwards: 0.35
+  name: Sedan
+  rotateSpeed: 8
+  seats:
+  - x: 0.0
+    y: -1.25
+    z: 0.0
+  - x: -1.0
+    y: -1.25
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.021
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1165
+    name: Racecar Black
+    price: 7000.0
+    uuid: 4JXXK8
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1166
+    name: Racecar Red
+    price: 7000.0
+    uuid: RD8XS9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1167
+    name: Racecar Emerald
+    price: 7000.0
+    uuid: 6XXC76
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1168
+    name: Racecar Gold
+    price: 7000.0
+    uuid: KHNB73
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1169
+    name: Racecar Pink
+    price: 7000.0
+    uuid: 972EKA
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1170
+    name: Racecar Diamond
+    price: 7000.0
+    uuid: 8D7JLU
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1171
+    name: Racecar Orange
+    price: 7000.0
+    uuid: QF6WZD
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1172
+    name: Racecar Orangeblack
+    price: 7000.0
+    uuid: 63MHGZ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1186
+    name: Racecar Ender
+    price: 7000.0
+    uuid: LRGF4Y
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1193
+    name: Racecar Purplefade
+    price: 7000.0
+    uuid: KS58X3
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1210
+    name: Racecar Rainbow
+    price: 7000.0
+    uuid: L4SEDU
+  hornEnabled: true
+  itemDamage: 1165
+  kofferbakEnabled: true
+  maxHealth: 300.0
+  maxSpeed: 0.92
+  maxSpeedBackwards: 0.35
+  name: Racecar
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.85
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.009
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1005
+    name: Jeep Politie
+    price: 6000.0
+    uuid: 5HEGAR
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1073
+    name: Jeep Blue
+    price: 6000.0
+    uuid: G2KQ4V
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1074
+    name: Jeep Gold
+    price: 6000.0
+    uuid: 5Z95XA
+  hornEnabled: true
+  itemDamage: 1074
+  kofferbakEnabled: true
+  maxHealth: 350.0
+  maxSpeed: 0.65
+  maxSpeedBackwards: 0.35
+  name: Jeep
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.25
+    z: 0.0
+  - x: -1.1
+    y: -1.25
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.012
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1006
+    name: Hotrod Red
+    price: 5000.0
+    uuid: CJF7WX
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1075
+    name: Hotrod Blackyellow
+    price: 5000.0
+    uuid: 5PR3D5
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1158
+    name: Hotrod Gold
+    price: 5000.0
+    uuid: 6WDK7U
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1159
+    name: Hotrod Blue
+    price: 5000.0
+    uuid: 2FWFAS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1160
+    name: Hotrod Orange
+    price: 5000.0
+    uuid: E6HMVT
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1161
+    name: Hotrod Black
+    price: 5000.0
+    uuid: 6GBKXT
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1162
+    name: Hotrod Pink
+    price: 5000.0
+    uuid: 5F2B55
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1164
+    name: Hotrod Army
+    price: 5000.0
+    uuid: 4ZEN6W
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1192
+    name: Hotrod Valentijn
+    price: 5000.0
+    uuid: S5JPB9
+  hornEnabled: true
+  itemDamage: 1006
+  kofferbakEnabled: true
+  maxHealth: 250.0
+  maxSpeed: 0.7
+  maxSpeedBackwards: 0.35
+  name: Hotrod
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.35
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.012
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1121
+    name: Hovercraft Lime
+    price: 8000.0
+    uuid: 2C7UM7
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1122
+    name: Hovercraft White
+    price: 8000.0
+    uuid: ABRA7A
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1123
+    name: Hovercraft Gold
+    price: 8000.0
+    uuid: X24E5U
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1201
+    name: Hovercraft Orange
+    price: 8000.0
+    uuid: XTD7T7
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1202
+    name: Hovercraft Black
+    price: 8000.0
+    uuid: L9DN24
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1211
+    name: Hovercraft Purpleyellow
+    price: 8000.0
+    uuid: F436FE
+  hornEnabled: false
+  itemDamage: 1121
+  kofferbakEnabled: true
+  maxHealth: 200.0
+  maxSpeed: 0.67
+  maxSpeedBackwards: 0.35
+  name: Hovercraft
+  rotateSpeed: 8
+  seats:
+  - x: -0.2
+    y: -0.85
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: HOVER
+- acceleratieSpeed: 0.009
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1132
+    name: SUV Blue
+    price: 9000.0
+    uuid: NAXR6K
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1133
+    name: SUV Brown
+    price: 9000.0
+    uuid: QQER7A
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1134
+    name: SUV Gold
+    price: 9000.0
+    uuid: L6XB46
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1135
+    name: SUV Green
+    price: 9000.0
+    uuid: YF9328
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1136
+    name: SUV Pink
+    price: 9000.0
+    uuid: ZNF57S
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1137
+    name: SUV Red
+    price: 9000.0
+    uuid: 8445L7
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1138
+    name: SUV Upperblue
+    price: 9000.0
+    uuid: EZD8F5
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1139
+    name: SUV White
+    price: 9000.0
+    uuid: 88WPRU
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1140
+    name: SUV Yellow
+    price: 9000.0
+    uuid: 6SEXMU
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1141
+    name: SUV Black
+    price: 9000.0
+    uuid: FC98KS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1184
+    name: SUV Ender
+    price: 9000.0
+    uuid: 53JTVT
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1185
+    name: SUV Politie
+    price: 9000.0
+    uuid: HVN8HB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1188
+    name: SUV Stars
+    price: 9000.0
+    uuid: X4WU9V
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1198
+    name: SUV Cabrio Orangeblack
+    price: 9000.0
+    uuid: 7BPAD8
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1203
+    name: SUV Redblack
+    price: 9000.0
+    uuid: 85GAEH
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1204
+    name: SUV Greenwhite
+    price: 9000.0
+    uuid: W33BEH
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1207
+    name: SUV Lightbluewhite
+    price: 9000.0
+    uuid: Q85BXQ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1208
+    name: SUV Purplewhite
+    price: 9000.0
+    uuid: G7KJ8A
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1209
+    name: SUV Pinkwhite
+    price: 9000.0
+    uuid: K6DVYQ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1219
+    name: SUV Lime
+    price: 9000.0
+    uuid: M2PYRY
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1220
+    name: SUV Criminalblack
+    price: 9000.0
+    uuid: 5R7QP3
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1221
+    name: SUV Navyblue
+    price: 9000.0
+    uuid: 3E35UU
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1222
+    name: SUV Bordeaux
+    price: 9000.0
+    uuid: 2C8XKA
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1227
+    name: SUV Pokémon
+    price: 9000.0
+    uuid: K5B2YL
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1228
+    name: SUV Giraffe
+    price: 9000.0
+    uuid: 75W9X8
+  hornEnabled: true
+  itemDamage: 1132
+  kofferbakEnabled: true
+  maxHealth: 300.0
+  maxSpeed: 0.6
+  maxSpeedBackwards: 0.35
+  name: SUV
+  rotateSpeed: 8
+  seats:
+  - x: 0.0
+    y: -1.15
+    z: 0.4
+  - x: 0.0
+    y: -1.15
+    z: -0.4
+  - x: -0.8
+    y: -1.15
+    z: 0.4
+  - x: -0.8
+    y: -1.15
+    z: -0.4
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.012
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1230
+    name: UFO
+    price: 10000.0
+    uuid: U5N8WS
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1231
+    name: UFO Orange
+    price: 10000.0
+    uuid: 4ZJ2TJ
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1232
+    name: UFO Blackgold
+    price: 10000.0
+    uuid: BMM98D
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1233
+    name: UFO Purple
+    price: 10000.0
+    uuid: J979P2
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1234
+    name: UFO Blue
+    price: 10000.0
+    uuid: 9B9YNV
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1235
+    name: UFO Black
+    price: 10000.0
+    uuid: KE8E77
+  hornEnabled: false
+  itemDamage: 1234
+  kofferbakEnabled: true
+  maxHealth: 300.0
+  maxSpeed: 0.67
+  maxSpeedBackwards: 0.35
+  name: UFO
+  rotateSpeed: 8
+  seats:
+  - x: 0.0
+    y: -0.85
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: HOVER
+- acceleratieSpeed: 0.012
+  aftrekkenSpeed: 0.008
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1250
+    name: Tank Legend Black
+    price: 20000.0
+    uuid: G87SH4
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1251
+    name: Tank Legend Camo Dark
+    price: 20000.0
+    uuid: GAY8AD
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1252
+    name: Tank Legend Camo Forest
+    price: 20000.0
+    uuid: 5NHQBC
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1253
+    name: Tank Legend Camo Marine
+    price: 20000.0
+    uuid: E4RAHB
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1254
+    name: Tank Legend Desert
+    price: 20000.0
+    uuid: Q2NQR7
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1255
+    name: Tank Legend Green
+    price: 20000.0
+    uuid: 589GVK
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1256
+    name: Tank Legend Sand
+    price: 20000.0
+    uuid: 98F6Q4
+  hornEnabled: false
+  itemDamage: 1252
+  kofferbakEnabled: true
+  maxHealth: 800.0
+  maxSpeed: 0.4
+  maxSpeedBackwards: 0.17
+  name: Tank
+  rotateSpeed: 6
+  seats:
+  - x: 0.0
+    y: -0.9
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: TANK
+- acceleratieSpeed: 0.012
+  aftrekkenSpeed: 0.008
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1257
+    name: Raket Legend Black
+    price: 15000.0
+    uuid: 6GZYGM
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1258
+    name: Raket Legend Camo Dark
+    price: 15000.0
+    uuid: VT3Y3X
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1259
+    name: Raket Legend Camo Forest
+    price: 15000.0
+    uuid: VJNR2J
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1260
+    name: Raket Legend Camo Marine
+    price: 15000.0
+    uuid: 4GS924
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1261
+    name: Raket Legend Desert
+    price: 15000.0
+    uuid: 5HMTND
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1262
+    name: Raket Legend Green
+    price: 15000.0
+    uuid: YHS5XC
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1263
+    name: Raket Legend Sand
+    price: 15000.0
+    uuid: 5WA8S3
+  hornEnabled: false
+  itemDamage: 1259
+  kofferbakEnabled: true
+  maxHealth: 500.0
+  maxSpeed: 0.4
+  maxSpeedBackwards: 0.17
+  name: Raket
+  rotateSpeed: 6
+  seats:
+  - x: 0.0
+    y: -1.05
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.01
+  aftrekkenSpeed: 0.02
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1124
+    name: Apache Blue
+    price: 25000.0
+    uuid: JLP5XV
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1125
+    name: Apache Pink
+    price: 25000.0
+    uuid: 4EVZ8U
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1126
+    name: Apache Preen
+    price: 25000.0
+    uuid: FHY77D
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1127
+    name: Apache Brown
+    price: 25000.0
+    uuid: E9Y9T3
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1128
+    name: Apache Gray
+    price: 25000.0
+    uuid: AAJ84C
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1129
+    name: Apache Gold
+    price: 25000.0
+    uuid: K3G7JG
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1130
+    name: Apache Red
+    price: 25000.0
+    uuid: 5X8QSY
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1131
+    name: Apache Upperblue
+    price: 25000.0
+    uuid: 43V6S2
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1142
+    name: Apache Black
+    price: 25000.0
+    uuid: RJRN9P
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1180
+    name: Apache Pink
+    price: 25000.0
+    uuid: SYJN6P
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1181
+    name: Apache Obsidian
+    price: 25000.0
+    uuid: 92XNSC
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1182
+    name: Apache Leaves
+    price: 25000.0
+    uuid: KQZ4VC
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1183
+    name: Apache Orange
+    price: 25000.0
+    uuid: EG8HLM
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1212
+    name: Apache Roodze
+    price: 25000.0
+    uuid: D2CW3G
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1213
+    name: Apache Bordeaux
+    price: 25000.0
+    uuid: U89YH2
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1214
+    name: Apache Criminalblack
+    price: 25000.0
+    uuid: 8A4A9Y
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1215
+    name: Apache Mint
+    price: 25000.0
+    uuid: 6JXVBY
+  hornEnabled: false
+  itemDamage: 1124
+  kofferbakEnabled: true
+  maxHealth: 400.0
+  maxSpeed: 0.7
+  maxSpeedBackwards: 0.35
+  name: Apache
+  rotateSpeed: 10
+  seats:
+  - x: -0.3
+    y: -1.25
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: HELICOPTER
+  wiekens:
+  - item:
+      ==: org.bukkit.inventory.ItemStack
+      damage: 1058
+      meta:
+        ==: ItemMeta
+        Damage: 1058
+        Unbreakable: true
+        meta-type: UNSPECIFIC
+      type: DIAMOND_HOE
+      v: 2230
+    x: -0.85
+    y: -0.37
+    z: 0.0
+- acceleratieSpeed: 0.01
+  aftrekkenSpeed: 0.01
+  benzineEnabled: true
+  brakingSpeed: 0.04
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1264
+    name: Plane Gray
+    price: 25000.0
+    uuid: JLP5A1
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1265
+    name: Plane Blue
+    price: 25000.0
+    uuid: JLP5A2
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1266
+    name: Plane Dragon
+    price: 25000.0
+    uuid: JLP5A3
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1267
+    name: Plane Fighter
+    price: 28000.0
+    uuid: JLP5A4
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1268
+    name: Plane Fighter Oranje
+    price: 28000.0
+    uuid: JLP5A5
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1269
+    name: Plane Gold
+    price: 25000.0
+    uuid: JLP5A6
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1270
+    name: Plane Green
+    price: 25000.0
+    uuid: JLP5A7
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1271
+    name: Plane Octopus
+    price: 25000.0
+    uuid: JLP5A8
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1272
+    name: Plane Orange
+    price: 25000.0
+    uuid: JLP5A9
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1273
+    name: Plane Purple
+    price: 25000.0
+    uuid: JLP5A0
+  hornEnabled: false
+  itemDamage: 1264
+  kofferbakEnabled: true
+  maxHealth: 400.0
+  maxSpeed: 1.1
+  maxSpeedBackwards: 0.0
+  name: Plane
+  rotateSpeed: 4
+  seats:
+  - x: 0.0
+    y: -0.95
+    z: 0.0
+  - x: -1.0
+    y: -0.95
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: AIRPLANE
+- acceleratieSpeed: 0.015
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.02
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1274
+    name: Boat
+    price: 35000.0
+    uuid: PLV334
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1275
+    name: Speedboat
+    price: 40000.0
+    uuid: PLV871
+  hornEnabled: true
+  itemDamage: 1274
+  kofferbakEnabled: true
+  maxHealth: 200.0
+  maxSpeed: 0.5
+  maxSpeedBackwards: 0.1
+  name: Boat
+  rotateSpeed: 6
+  seats:
+  - x: -0.3
+    y: -0.65
+    z: 0.0
+  - x: -1.5
+    y: -0.65
+    z: 0.0
+  - x: -2.5
+    y: -0.65
+    z: 0.5
+  - x: -2.5
+    y: -0.65
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: BOAT
+- acceleratieSpeed: 0.01
+  aftrekkenSpeed: 0.005
+  benzineEnabled: false
+  brakingSpeed: 0.02
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1276
+    name: Raft
+    price: 10000.0
+    uuid: PLV335
+  hornEnabled: false
+  itemDamage: 1276
+  kofferbakEnabled: false
+  maxHealth: 50.0
+  maxSpeed: 0.35
+  maxSpeedBackwards: 0.06
+  name: Raft
+  rotateSpeed: 6
+  seats:
+  - x: 0.6
+    y: -0.9
+    z: 0.4
+  - x: 0.6
+    y: -0.9
+    z: -0.4
+  - x: -0.8
+    y: -0.9
+    z: 0.4
+  - x: -0.8
+    y: -0.9
+    z: -0.4
+  skinItem: DIAMOND_HOE
+  vehicleType: BOAT
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1
+    name: bmw_e30_1985
+    price: 1.0
+    uuid: SAT001
+  hornEnabled: true
+  itemDamage: 1
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: bmw_e30_1985
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.4
+    z: 0.5
+  - x: -0.1
+    y: -1.4
+    z: -0.5
+  - x: -1.3
+    y: -1.4
+    z: 0.5
+  - x: -1.3
+    y: -1.4
+    z: 0.0
+  - x: -1.3
+    y: -1.4
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 9
+    name: ferrari_f50_1995
+    price: 1.0
+    uuid: SAT009
+  hornEnabled: true
+  itemDamage: 9
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: ferrari_f50_1995
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.65
+    z: 0.5
+  - x: -0.1
+    y: -1.65
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 13
+    name: ford_e_series_econoline_1986
+    price: 1.0
+    uuid: SAT013
+  hornEnabled: true
+  itemDamage: 13
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: ford_e_series_econoline_1986
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -0.9
+    z: 0.5
+  - x: -0.1
+    y: -0.9
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 48
+    name: volkswagen_w12
+    price: 1.0
+    uuid: SAT048
+  hornEnabled: true
+  itemDamage: 48
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: volkswagen_w12
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.6
+    z: 0.5
+  - x: -0.1
+    y: -1.6
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 66
+    name: police_motorcycle_black
+    price: 1.0
+    uuid: SAT066
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 67
+    name: police_motorcycle_blue
+    price: 1.0
+    uuid: SAT067
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 68
+    name: police_motorcycle_green
+    price: 1.0
+    uuid: SAT068
+  hornEnabled: true
+  itemDamage: 66
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: police_motorcycle
+  rotateSpeed: 8
+  seats:
+  - x: -0.5
+    y: -1.0
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 75
+    name: swat_truck
+    price: 1.0
+    uuid: SAT075
+  hornEnabled: true
+  itemDamage: 75
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: swat_truck
+  rotateSpeed: 8
+  seats:
+  - x: 0.1
+    y: -1.3
+    z: 0.45
+  - x: 0.1
+    y: -1.3
+    z: -0.45
+  - x: -1.0
+    y: -1.3
+    z: 0.45
+  - x: -2.0
+    y: -1.3
+    z: 0.45
+  - x: -3.0
+    y: -1.3
+    z: 0.45
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 76
+    name: tesla_cybertruck
+    price: 1.0
+    uuid: SAT076
+  hornEnabled: true
+  itemDamage: 76
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: tesla_cybertruck
+  rotateSpeed: 8
+  seats:
+  - x: 0.1
+    y: -1.2
+    z: 0.5
+  - x: 0.1
+    y: -1.2
+    z: -0.5
+  - x: -1.1
+    y: -1.2
+    z: 0.5
+  - x: -1.1
+    y: -1.2
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 78
+    name: tesla_model_s
+    price: 1.0
+    uuid: SAT078
+  hornEnabled: true
+  itemDamage: 78
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: tesla_model_s
+  rotateSpeed: 8
+  seats:
+  - x: -0.4
+    y: -1.35
+    z: 0.5
+  - x: -0.4
+    y: -1.35
+    z: -0.5
+  - x: -1.3
+    y: -1.35
+    z: 0.5
+  - x: -1.3
+    y: -1.35
+    z: 0.0
+  - x: -1.3
+    y: -1.35
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 82
+    name: ambulance_2
+    price: 1.0
+    uuid: SAT082
+  hornEnabled: true
+  itemDamage: 82
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: ambulance_2
+  rotateSpeed: 8
+  seats:
+  - x: 0.1
+    y: -1.3
+    z: 0.45
+  - x: 0.1
+    y: -1.3
+    z: -0.45
+  - x: -1.0
+    y: -1.3
+    z: 0.45
+  - x: -2.0
+    y: -1.3
+    z: 0.45
+  - x: -3.0
+    y: -1.3
+    z: 0.45
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 84
+    name: faggio_blue
+    price: 1.0
+    uuid: SAT084
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 85
+    name: faggio_yellow
+    price: 1.0
+    uuid: SAT085
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 86
+    name: faggio_tricolore
+    price: 1.0
+    uuid: SAT086
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 87
+    name: faggio_pink
+    price: 1.0
+    uuid: SAT087
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 88
+    name: faggio_green
+    price: 1.0
+    uuid: SAT088
+  hornEnabled: true
+  itemDamage: 84
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: faggio
+  rotateSpeed: 8
+  seats:
+  - x: -0.5
+    y: -1.0
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1541
+    name: fiat_grande_panda_hybrid_acqua
+    price: 1.0
+    uuid: SAT1541
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1542
+    name: fiat_grande_panda_hybrid_cinema
+    price: 1.0
+    uuid: SAT1542
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1543
+    name: fiat_grande_panda_hybrid_gelato
+    price: 1.0
+    uuid: SAT1543
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1544
+    name: fiat_grande_panda_hybrid_lago
+    price: 1.0
+    uuid: SAT1544
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1545
+    name: fiat_grande_panda_hybrid_limone
+    price: 1.0
+    uuid: SAT1545
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1546
+    name: fiat_grande_panda_hybrid_luna
+    price: 1.0
+    uuid: SAT1546
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1547
+    name: fiat_grande_panda_hybrid_passione
+    price: 1.0
+    uuid: SAT1547
+  hornEnabled: true
+  itemDamage: 1541
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 1.34
+  maxSpeedBackwards: 0.35
+  name: fiat_grande_panda_hybrid
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.0
+    z: 0.5
+  - x: -0.1
+    y: -1.0
+    z: -0.5
+  - x: -1.3
+    y: -1.0
+    z: 0.5
+  - x: -1.3
+    y: -1.0
+    z: 0.0
+  - x: -1.3
+    y: -1.0
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1548
+    name: chrysler_imperial_lebaron_1971
+    price: 1.0
+    uuid: SAT1548
+  hornEnabled: true
+  itemDamage: 1548
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: chrysler_imperial_lebaron_1971
+  rotateSpeed: 8
+  seats:
+  - x: -0.4
+    y: -1.35
+    z: 0.5
+  - x: -0.4
+    y: -1.35
+    z: -0.5
+  - x: -1.3
+    y: -1.35
+    z: 0.5
+  - x: -1.3
+    y: -1.35
+    z: 0.0
+  - x: -1.3
+    y: -1.35
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1549
+    name: lawnmower_vehicle
+    price: 1.0
+    uuid: SAT1549
+  hornEnabled: false
+  itemDamage: 1549
+  kofferbakEnabled: false
+  maxHealth: 100.0
+  maxSpeed: 0.2
+  maxSpeedBackwards: 0.15
+  name: lawnmower_vehicle
+  rotateSpeed: 8
+  seats:
+  - x: -0.5
+    y: -1.0
+    z: 0.0
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1550
+    name: mercedes_benz_190
+    price: 1.0
+    uuid: SAT1550
+  hornEnabled: true
+  itemDamage: 1550
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: mercedes_benz_190
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.4
+    z: 0.5
+  - x: -0.1
+    y: -1.4
+    z: -0.5
+  - x: -1.3
+    y: -1.4
+    z: 0.5
+  - x: -1.3
+    y: -1.4
+    z: 0.0
+  - x: -1.3
+    y: -1.4
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1551
+    name: new_york_taxi_2005
+    price: 1.0
+    uuid: SAT1551
+  hornEnabled: true
+  itemDamage: 1551
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: new_york_taxi_2005
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.35
+    z: 0.5
+  - x: -0.1
+    y: -1.35
+    z: -0.5
+  - x: -1.3
+    y: -1.35
+    z: 0.5
+  - x: -1.3
+    y: -1.35
+    z: 0.0
+  - x: -1.3
+    y: -1.35
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1552
+    name: opel_campo_cab
+    price: 1.0
+    uuid: SAT1552
+  hornEnabled: true
+  itemDamage: 1552
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: opel_campo_cab
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.3
+    z: 0.5
+  - x: -0.1
+    y: -1.3
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.006
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.025
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1553
+    name: rubbish_truck
+    price: 1.0
+    uuid: SAT1553
+  hornEnabled: true
+  itemDamage: 1553
+  kofferbakEnabled: true
+  maxHealth: 250.0
+  maxSpeed: 0.28
+  maxSpeedBackwards: 0.2
+  name: rubbish_truck
+  rotateSpeed: 6
+  seats:
+  - x: 0.1
+    y: -1.3
+    z: 0.45
+  - x: 0.1
+    y: -1.3
+    z: -0.45
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
+- acceleratieSpeed: 0.007
+  aftrekkenSpeed: 0.005
+  benzineEnabled: true
+  brakingSpeed: 0.03
+  cars:
+  - SkinItem: DIAMOND_HOE
+    itemDamage: 1554
+    name: suzuki_jimny_1977
+    price: 1.0
+    uuid: SAT1554
+  hornEnabled: true
+  itemDamage: 1554
+  kofferbakEnabled: true
+  maxHealth: 150.0
+  maxSpeed: 0.34
+  maxSpeedBackwards: 0.35
+  name: suzuki_jimny_1977
+  rotateSpeed: 8
+  seats:
+  - x: -0.1
+    y: -1.1
+    z: 0.5
+  - x: -0.1
+    y: -1.1
+    z: -0.5
+  skinItem: DIAMOND_HOE
+  vehicleType: CAR
